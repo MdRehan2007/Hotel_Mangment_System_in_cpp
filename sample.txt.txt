@@ -1,0 +1,79 @@
+MENU:
+ 1.Book
+ 2.Login to your room
+ 3.Info
+ 4.List
+ 5.Modify
+ 6.Order Food
+ 7.Checkout
+ 8.Exit
+Choice: 1
+Name: rehan
+Address: Gooty
+Phone: 9493442758
+
+================================
+        ROOM TYPES & RATES     
+===================================
+A. Deluxe Room     3000/day
+B. Standard Room   2000/day
+C. Economy Room    1000/day
+Room Type (A/B/C): A
+Days of stay: 1
+
+Booking Room...
+Auto-assigned Room: 101
+ Room 101 booked.
+≡ƒº╛ Username: rehan | Password: 9493442758
+
+ MENU:
+ 1.Book
+ 2.Login to your room
+ 3.Info
+ 4.List
+ 5.Modify
+ 6.Order Food
+ 7.Checkout
+ 8.Exit
+Choice: 6
+
+Room number: 101
+
+≡ƒì┤ MENU OPTIONS:
+1. Breakfast
+2. Lunch
+3. Dinner
+Choice: 3
+
+Dinner: Γé╣1200 per person
+Persons: 1
+ Γé╣1200 added for Dinner.
+
+ MENU:
+ 1.Book
+ 2.Login to your room
+ 3.Info
+ 4.List
+ 5.Modify
+ 6.Order Food
+ 7.Checkout
+ 8.Exit
+Choice: 7
+
+Enter room number: 101
+
+ Checkout Summary
+Room Γé╣3000 + Food Γé╣1200 = Γé╣4200
+≡ƒº╛ Bill generated and saved as: bill_101.txt
+ Checked out successfully.
+
+ MENU:
+ 1.Book
+ 2.Login to your room
+ 3.Info
+ 4.List
+ 5.Modify
+ 6.Order Food
+ 7.Checkout
+ 8.Exit
+Choice:
