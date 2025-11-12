@@ -1,0 +1,14 @@
+=============================================
+║              HOTEL BILL RECEIPT           ║
+=============================================
+Guest Name   : rehan
+Room Number  : 101
+Room Type    : A (Deluxe)
+Days Stayed  : 1
+Phone        : 9493442758
+--------------------------------------------
+Room Charges : ₹3000
+Food Charges : ₹1200
+Total Bill   : ₹4200
+--------------------------------------------
+Thank you for staying with us!
